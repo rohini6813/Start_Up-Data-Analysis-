@@ -15,5 +15,5 @@
 
 <h3>Programming Language: Python</h3>
 <h3>Libraries: Pandas, NumPy, Matplotlib, Seaborn</h3>
-<h3>Visualization Tools: Power BI, Tableau</h3>
+<h3>Visualization Tools: Python</h3>
 
